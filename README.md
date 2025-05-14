@@ -25,13 +25,16 @@ Welcome to **Dr. Mario**, a retro puzzle game lovingly rebuilt *entirely in MIPS
 - **Background Music:** Full Dr. Mario “Fever” theme plays in the background *without interfering with gameplay* (implemented with a non-blocking custom loop and syscall 31)
 
 ---
+## 📸 Screenshots
+
+![Main Interface](/game_screenshot.png)
 
 ## 🕹️ How to Play
 
 ### Controls
-- `←` / `→` : Move capsule left / right
-- `↓` : Speed up the fall
-- `Z` / `X` : Rotate capsule
+- `A` / `D` : Move capsule left / right
+- `S` : Speed up the fall
+- `W` : Rotate capsule
 - `P` : Pause / Resume
 - `Q` : Quit game
 - `R` : Restart after game over
